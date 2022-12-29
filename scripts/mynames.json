@@ -1,0 +1,13 @@
+{
+    "type" : "Family",
+    "members" : [
+        {
+            "name" : "Chris",
+            "age" : 44
+        },
+        {
+            "name" : "Jim",
+            "age" : 54
+        }
+    ]
+}
